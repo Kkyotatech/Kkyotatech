@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1599" height="735" alt="image" src="https://github.com/user-attachments/assets/8aea0cb4-8636-417f-bb5a-c945968abdef" />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/efbc7088-5ce4-4fb4-8f87-e3e5c10b4ca4" />
+
 <\div>
 
 ### `Carlos Fuso`
